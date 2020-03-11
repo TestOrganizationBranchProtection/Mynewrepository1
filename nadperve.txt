@@ -1,4 +1,6 @@
 [
-  "justice-league",
-  "justice-league1"
+  "restrictions": {
+    "users": [nadeem618],
+    "teams": []
+}
 ]
