@@ -1,5 +1,3 @@
-[
- "justice-league"
-"justice-league"
-
-]
+{
+  "limit": "collaborators_only"
+}
