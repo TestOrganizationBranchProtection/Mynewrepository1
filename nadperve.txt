@@ -1,6 +1,5 @@
 [
  "justice-league"
 "justice-league"
-"test"
 
 ]
